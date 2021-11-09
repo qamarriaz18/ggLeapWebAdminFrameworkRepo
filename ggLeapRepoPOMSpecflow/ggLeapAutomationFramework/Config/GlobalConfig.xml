@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ggLeapAutomationFramework>
+	<RunSettings>
+		<AUT>https://admin.ggleap.com/login</AUT>
+		<UserName>qamar</UserName>
+		<Password>ggleap123</Password>
+		<Browser>Chrome</Browser>
+		<TestType>SmokeTest</TestType>
+		<IsLog>Y</IsLog>
+		<LogPath>D:\\AutomationFrameworkLogs\\</LogPath>
+		<Build>DemoBuild</Build>
+		<IsReporting>N</IsReporting>
+	</RunSettings>
+</ggLeapAutomationFramework>
